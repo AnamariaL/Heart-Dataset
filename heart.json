@@ -1,0 +1,17 @@
+{
+  "columns": [
+    { "name": "age", "type": "number", "label": "age" },
+    { "name": "sex",  "type": "number", "label": "sex" },
+    { "name": "cp", "type": "number", "label": "cp" },
+    { "name": "chol",  "type": "number", "label": "chol" },
+    { "name": "fbs",  "type": "number", "label": "fbs" },
+    { "name": "restecg",  "type": "number", "label": "restecg" },
+    { "name": "thalach",  "type": "number", "label": "thalach" },
+    { "name": "exang",  "type": "number", "label": "exang" },
+    { "name": "oldpeak",  "type": "number", "label": "oldpeak" },
+    { "name": "slope",  "type": "number", "label": "slope" },
+    { "name": "ca",  "type": "number", "label": "ca" },
+    { "name": "thal",  "type": "number", "label": "thal" },
+    { "name": "target",  "type": "number", "label": "target" }
+  ]
+}
